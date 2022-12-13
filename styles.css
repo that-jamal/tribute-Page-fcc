@@ -1,0 +1,68 @@
+@font-face {
+    font-family: Cyber;
+    src: url("https://assets.codepen.io/605876/Blender-Pro-Bold.otf");
+    font-display: swap;
+}
+
+
+html {
+
+    font-size: 10px;
+}
+
+body {
+
+    font-family: cyber, sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
+    margin: 0;
+
+}
+
+h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-size: 3.25rem;
+}
+
+
+
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-div {
+    background: lightgreen;
+    padding: 20px;
+
+}
+
+#img-caption {
+    margin: 5px;
+}
+
+
+
+#headline {
+    margin: 50px;
+    text-align: center;
+}
+
+ul {
+    max-width: 500px;
+    margin: 1 auto 40px auto;
+    background: lightgreen;
+}
+
+li {
+    margin: 20px;
+}
